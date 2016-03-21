@@ -1,5 +1,6 @@
 # CRYPTOGRAPHY TOOL
 Tool to encrypt and decrypt files based on https://cryptography.io.
+Network Security course project.
 
 ## Installation  
 ```bash
