@@ -7,7 +7,7 @@ Network Security course project.
 sudo pip install cryptography
 ```
 
-## RSA keys with PEM encoding genereation  
+## RSA keys with PEM encoding generation  
 ```bash
 python rsa_keygen_tool.py
 ```
